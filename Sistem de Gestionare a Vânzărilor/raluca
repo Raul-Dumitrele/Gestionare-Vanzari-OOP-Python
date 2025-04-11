@@ -1,0 +1,24 @@
+{
+    "produse": [
+        {
+            "id": 1,
+            "nume": "sda",
+            "pret": 32.0,
+            "stoc": 32
+        },
+        {
+            "id": 2,
+            "nume": "dsa",
+            "pret": 32323.0,
+            "stoc": 32323
+        },
+        {
+            "id": 3,
+            "nume": "dsadsdsasdad",
+            "pret": 23213.0,
+            "stoc": 321321
+        }
+    ],
+    "clienti": [],
+    "comenzi": []
+}
